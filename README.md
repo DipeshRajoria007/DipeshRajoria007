@@ -1,27 +1,40 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Dipesh Rajoria</h1>
-<img align="center" src="https://github.com/DipeshRajoria007/DipeshRajoria/blob/main/dipesh-rajoria-linkedin-banner.png" />
-<h3 align="center">A passionate fullStack developer,</h3>
-<h5 align="center" >I'm constantly pushing the boundaries of what's possible, bringing my creative ideas to life through code.</h5>
-
-
-- 🔭 I'm a person with an insatiable curiosity for **the possibilities of JavaScript**
-
-- 💬 Ask me about **javascript and ReactJs**
-
-- 📫 How to reach me **dipeshrajoria45@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/dipeshrajoria_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipeshrajoria_" height="30" width="40" />
-    </a> &nbsp; &nbsp;
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/dipesh-rajoria-175b60192/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipesh-rajoria-175b60192/" height="30" width="40" />
-    </a> &nbsp; &nbsp;
-    <a href="https://instagram.com/dipeshrajoria" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipeshrajoria" height="30" width="40" />
-    </a> &nbsp; &nbsp;
-    <a href="https://www.leetcode.com/dipeshrajoria45" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipeshrajoria45" height="30" width="40" />
-    </a>
+<h1 align="center">Dipesh Rajoria</h1>
+<p align="center">
+  Full-stack engineer building fast web products with JavaScript and React.
 </p>
+<p align="center">
+  Exploring AI-era workflows: LLM-assisted tools, automation, and developer experience.
+</p>
+<p align="center">
+  <a href="mailto:dipeshrajoria45@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/dipesh-rajoria-175b60192/">LinkedIn</a> |
+  <a href="https://twitter.com/dipeshrajoria_">Twitter</a> |
+  <a href="https://instagram.com/dipeshrajoria">Instagram</a> |
+  <a href="https://www.leetcode.com/dipeshrajoria45">LeetCode</a>
+</p>
+
+---
+
+## Now
+
+- Building and delivering user-friendly, production-ready full-stack features.
+- Experimenting with LLM-assisted workflows for research, automation, and UI polish
+- Open to collaboration on web tooling and developer productivity
+
+## Focus
+
+- React UI performance and component systems
+- JavaScript services and API design
+- Practical AI integrations that improve real workflows
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshRajoria007&bg_color=0D1117&color=00E5FF&line=FFEA00&point=E0E0E0&hide_border=true" alt="Activity graph" />
+</p>
+
+## Contact
+
+- Email: dipeshrajoria45@gmail.com
+- Twitter: https://twitter.com/dipeshrajoria_
+- LinkedIn: https://www.linkedin.com/in/dipesh-rajoria-175b60192/
+- Instagram: https://instagram.com/dipeshrajoria
+- LeetCode: https://www.leetcode.com/dipeshrajoria45
