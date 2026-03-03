@@ -1,10 +1,17 @@
-# Dipesh Rajoria
-
-Full-stack engineer building fast web products with JavaScript and React.
-
-Exploring AI-era workflows: LLM-assisted tools, automation, and developer experience.
-
-[Email](mailto:dipeshrajoria45@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dipesh-rajoria-175b60192/) | [Twitter](https://twitter.com/dipeshrajoria_) | [Instagram](https://instagram.com/dipeshrajoria) | [LeetCode](https://www.leetcode.com/dipeshrajoria45)
+<h1 align="center">Dipesh Rajoria</h1>
+<p align="center">
+  Full-stack engineer building fast web products with JavaScript and React.
+</p>
+<p align="center">
+  Exploring AI-era workflows: LLM-assisted tools, automation, and developer experience.
+</p>
+<p align="center">
+  <a href="mailto:dipeshrajoria45@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/dipesh-rajoria-175b60192/">LinkedIn</a> |
+  <a href="https://twitter.com/dipeshrajoria_">Twitter</a> |
+  <a href="https://instagram.com/dipeshrajoria">Instagram</a> |
+  <a href="https://www.leetcode.com/dipeshrajoria45">LeetCode</a>
+</p>
 
 ---
 
@@ -33,6 +40,10 @@ Exploring AI-era workflows: LLM-assisted tools, automation, and developer experi
 - 🎨 **[mentova-frontend](https://github.com/DipeshRajoria007/mentova-frontend)** - Vite React TypeScript app scaffolded with shadcn/ui
 - 📱 **[otp-auto-fill](https://github.com/DipeshRajoria007/otp-auto-fill)** - React app with OTP auto-fill using WebOTP API and browser fallback
 - ✏️ **[co-sketch](https://github.com/DipeshRajoria007/co-sketch)** - Real-time collaborative sketching app
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshRajoria007&bg_color=0D1117&color=00E5FF&line=FFEA00&point=E0E0E0&hide_border=true" alt="Activity graph" />
+</p>
 
 ## Contact
 
