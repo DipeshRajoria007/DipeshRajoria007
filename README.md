@@ -37,6 +37,7 @@
 - 🔄 **[face-swap](https://github.com/DipeshRajoria007/face-swap)** - Developer tool that speeds up auth debugging with token injection, cookie clearing, and reload
 - 🖥️ **[electron-kiosk-controller](https://github.com/DipeshRajoria007/electron-kiosk-controller)** - Electron + React kiosk-mode desktop app for macOS
 - 🏝️ **[macos-dynamic-island](https://github.com/DipeshRajoria007/macos-dynamic-island)** - Electron macOS dynamic island overlay for kiosk/fullscreen setups
+- 📸 **[snap-desk-macos](https://github.com/DipeshRajoria007/snap-desk-macos)** - A macOS app to quickly capture and organize your desktop snapshots.
 - 🎨 **[mentova-frontend](https://github.com/DipeshRajoria007/mentova-frontend)** - Vite React TypeScript app scaffolded with shadcn/ui
 - 📱 **[otp-auto-fill](https://github.com/DipeshRajoria007/otp-auto-fill)** - React app with OTP auto-fill using WebOTP API and browser fallback
 - ✏️ **[co-sketch](https://github.com/DipeshRajoria007/co-sketch)** - Real-time collaborative sketching app
