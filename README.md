@@ -30,6 +30,7 @@
 ## Current Projects
 
 - 🔀 [**mcport**](https://github.com/DipeshRajoria007/mcport) - Migrate MCP servers from Codex CLI to Claude Code in one command
+- 👀 [**watchtower**](https://github.com/DipeshRajoria007/watchtower)
 - 🖥️ [**source-stack-desktop**](https://github.com/DipeshRajoria007/source-stack-desktop) - Cross-platform Tauri app with Rust backend for local resume parsing and Google Drive/Sheets workflows
 - 🌐 [**source-stack-web**](https://github.com/DipeshRajoria007/source-stack-web) - Web frontend for the SourceStack platform
 - 🐍 [**source-stack-api**](https://github.com/DipeshRajoria007/source-stack-api) - Python backend API powering SourceStack
