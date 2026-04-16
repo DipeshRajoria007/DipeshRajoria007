@@ -1,8 +1,5 @@
 <h1 align="center">Dipesh Rajoria</h1>
 <p align="center">
-  Full-stack engineer building fast web products with JavaScript and React.
-</p>
-<p align="center">
   Exploring AI-era workflows: LLM-assisted tools, automation, and developer experience.
 </p>
 <p align="center">
