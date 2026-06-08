@@ -73,11 +73,7 @@ How the work splits these days — I keep the judgment, agents take the grind:
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind&theme=dark&perline=6" alt="Web stack: TypeScript, JavaScript, React, Next.js, Vite, Tailwind" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tauri,rust,electron,swift&theme=dark&perline=4" alt="Desktop stack: Tauri, Rust, Electron, Swift" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,nodejs&theme=dark&perline=2" alt="Backend stack: Python, Node.js" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,tauri,rust,electron,swift,python,nodejs&theme=dark&perline=12" alt="Stack: TypeScript, JavaScript, React, Next.js, Vite, Tailwind, Tauri, Rust, Electron, Swift, Python, Node.js" />
   <br/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Codex-10A37F?style=flat&logo=openai&logoColor=white" alt="Codex" />
