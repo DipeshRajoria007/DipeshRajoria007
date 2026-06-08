@@ -1,50 +1,83 @@
-<h1 align="center">Dipesh Rajoria</h1>
 <p align="center">
-  Exploring AI-era workflows: LLM-assisted tools, automation, and developer experience.
+  <a href="https://github.com/DipeshRajoria007">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=620&height=50&lines=I+orchestrate+agents+to+ship+faster;React+%C2%B7+Tauri+%C2%B7+Rust+%C2%B7+Python+%C2%B7+Swift;Claude+%C2%B7+Codex+%C2%B7+MCP+%C2%B7+LLM+workflows" alt="typing header" />
+  </a>
 </p>
+
+<h1 align="center">Dipesh Rajoria</h1>
+<p align="center">engineer · agent-operator · macOS tinkerer</p>
 <p align="center">
-  <a href="mailto:dipeshrajoria45@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/dipesh-rajoria-175b60192/">LinkedIn</a> |
-  <a href="https://twitter.com/dipeshrajoria_">Twitter</a> |
-  <a href="https://instagram.com/dipeshrajoria">Instagram</a> |
+  <a href="mailto:dipeshrajoria45@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/dipesh-rajoria-175b60192/">LinkedIn</a> ·
+  <a href="https://twitter.com/dipeshrajoria_">Twitter</a> ·
+  <a href="https://instagram.com/dipeshrajoria">Instagram</a> ·
   <a href="https://www.leetcode.com/dipeshrajoria45">LeetCode</a>
 </p>
 
+```bash
+$ whoami
+> Engineer who orchestrates agents to ship AI-native tools across web & desktop.
+
+$ stack --all
+  lang     TypeScript  JavaScript  Rust  Python  Swift
+  web      React  Next.js  Vite  Tailwind  shadcn/ui
+  desktop  Tauri  Electron  SwiftUI
+  backend  Python  Node.js
+  agents   Claude  Codex  MCP  LLM workflows
+
+$ ls ~/building
+  sentinel   jarvis-cmux   ownit   watchtower
+
+$ now
+> Building agentic tools, desktop apps, and developer-experience tooling.
+```
+
+How the work splits these days — I keep the judgment, agents take the grind:
+
+```
+╭─ operator ───────────────┬────────────────────────╮
+│ // human                 │ // agents              │
+│ architecture & design    │ Claude · Codex · MCP   │
+│ product taste & UX       │ boilerplate, refactors │
+│ the hard 20% of the code │ runs while I sleep     │
+╰──────────────────────────┴────────────────────────╯
+```
+
+## 🤖 AI & Agents
+
+- **[sentinel](https://github.com/DipeshRajoria007/sentinel)** — AI data-insights bot for founders and leaders across Slack, Claude, Metabase, GitHub, and Notion.
+- **[jarvis-cmux-plugin](https://github.com/DipeshRajoria007/jarvis-cmux-plugin)** — Voice-controlled AI agent manager for `cmux` that routes commands to Claude and Codex sessions.
+- **[ownit](https://github.com/DipeshRajoria007/ownit)** — Local-only Mac desktop app for turning small Newton Web changes into review-ready pull requests.
+- **[codex-browser-extension](https://github.com/DipeshRajoria007/codex-browser-extension)** — GPT-powered Chrome extension for browser automation.
+- **[mcport](https://github.com/DipeshRajoria007/mcport)** — Migrate MCP servers from Codex CLI to Claude Code in one command.
+- **[face-swap](https://github.com/DipeshRajoria007/face-swap)** — Internal developer tool for faster auth debugging with token injection, cookie clearing, and reload.
+
+## 🖥️ Desktop · macOS · Tauri · Electron
+
+- **[watchtower](https://github.com/DipeshRajoria007/watchtower)** — macOS-only Tauri Slack mention automation platform with Codex workflows.
+- **[sessionctl](https://github.com/DipeshRajoria007/sessionctl)** — Native macOS menu bar app for managing AI terminal sessions.
+- **[snap-desk-macos](https://github.com/DipeshRajoria007/snap-desk-macos)** — macOS menu bar app to save and restore window positions across displays.
+- **[source-stack-desktop](https://github.com/DipeshRajoria007/source-stack-desktop)** — Cross-platform Tauri desktop app for local resume parsing and Google Drive/Sheets workflows.
+- **[macos-dynamic-island](https://github.com/DipeshRajoria007/macos-dynamic-island)** — Electron macOS dynamic-island overlay for kiosk and fullscreen setups.
+- **[electron-kiosk-controller](https://github.com/DipeshRajoria007/electron-kiosk-controller)** — Electron + React kiosk-mode desktop app for macOS.
+
+## 🌐 Web & Backend
+
+- **[mentova-frontend](https://github.com/DipeshRajoria007/mentova-frontend)** — Vite React TypeScript app scaffolded with shadcn/ui.
+- **[co-sketch](https://github.com/DipeshRajoria007/co-sketch)** — Real-time collaborative sketching app.
+- **[otp-auto-fill](https://github.com/DipeshRajoria007/otp-auto-fill)** — React app with OTP auto-fill using the WebOTP API and browser fallback.
+- **[source-stack-web](https://github.com/DipeshRajoria007/source-stack-web)** — Web frontend for the SourceStack platform.
+- **[source-stack-api](https://github.com/DipeshRajoria007/source-stack-api)** — Python backend API powering SourceStack.
+- **[watchtower-site](https://github.com/DipeshRajoria007/watchtower-site)** — Editorial product page for Watchtower.
+
 ---
 
-## Now
-
-- Building and delivering user-friendly, production-ready full-stack features.
-- Experimenting with LLM-assisted workflows for research, automation, and UI polish
-- Open to collaboration on web tooling and developer productivity
-
-## Focus
-
-- React UI performance and component systems
-- JavaScript services and API design
-- Practical AI integrations that improve real workflows
-
-## Current Projects
-
-- 🛰️ **[sentinel](https://github.com/DipeshRajoria007/sentinel)** - AI data-insights bot for founders and leaders across Slack, Claude, Metabase, GitHub, and Notion.
-- 🎙️ **[jarvis-cmux-plugin](https://github.com/DipeshRajoria007/jarvis-cmux-plugin)** - Voice-controlled AI agent manager for `cmux` that routes commands to Claude and Codex sessions.
-- 🎛️ **[sessionctl](https://github.com/DipeshRajoria007/sessionctl)** - Native macOS menu bar app for managing AI terminal sessions.
-- 🤖 **[codex-browser-extension](https://github.com/DipeshRajoria007/codex-browser-extension)** - GPT-powered Chrome extension for browser automation.
-- ✅ **[ownit](https://github.com/DipeshRajoria007/ownit)** - Local-only Mac desktop app for turning small Newton Web changes into review-ready pull requests.
-- 📰 **[watchtower-site](https://github.com/DipeshRajoria007/watchtower-site)** - Editorial product page for Watchtower.
-- 📸 **[snap-desk-macos](https://github.com/DipeshRajoria007/snap-desk-macos)** - macOS menu bar app to save and restore window positions across displays.
-- 👀 **[watchtower](https://github.com/DipeshRajoria007/watchtower)** - macOS-only Tauri Slack mention automation platform with Codex workflows.
-- 🔀 **[mcport](https://github.com/DipeshRajoria007/mcport)** - Migrate MCP servers from Codex CLI to Claude Code in one command.
-- 🎨 **[mentova-frontend](https://github.com/DipeshRajoria007/mentova-frontend)** - Vite React TypeScript app scaffolded with shadcn/ui.
-- 🖥️ **[source-stack-desktop](https://github.com/DipeshRajoria007/source-stack-desktop)** - Cross-platform Tauri desktop app for local resume parsing and Google Drive/Sheets workflows.
-- 🏝️ **[macos-dynamic-island](https://github.com/DipeshRajoria007/macos-dynamic-island)** - Electron macOS dynamic-island overlay for kiosk and fullscreen setups.
-- 🖥️ **[electron-kiosk-controller](https://github.com/DipeshRajoria007/electron-kiosk-controller)** - Electron + React kiosk-mode desktop app for macOS.
-- 🔄 **[face-swap](https://github.com/DipeshRajoria007/face-swap)** - Internal developer tool for faster auth debugging with token injection, cookie clearing, and reload.
-- 🐍 **[source-stack-api](https://github.com/DipeshRajoria007/source-stack-api)** - Python backend API powering SourceStack.
-- 🌐 **[source-stack-web](https://github.com/DipeshRajoria007/source-stack-web)** - Web frontend for the SourceStack platform.
-- 📱 **[otp-auto-fill](https://github.com/DipeshRajoria007/otp-auto-fill)** - React app with OTP auto-fill using WebOTP API and browser fallback.
-- ✏️ **[co-sketch](https://github.com/DipeshRajoria007/co-sketch)** - Real-time collaborative sketching app.
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshRajoria007&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00E5FF&text_color=c9d1d9" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DipeshRajoria007&theme=matrix&no-bg=true&no-frame=true&margin-w=6&row=1&column=6" alt="Trophies" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshRajoria007&bg_color=0D1117&color=00E5FF&line=FFEA00&point=E0E0E0&hide_border=true" alt="Activity graph" />
 </p>
@@ -52,7 +85,7 @@
 ## Contact
 
 - Email: [dipeshrajoria45@gmail.com](mailto:dipeshrajoria45@gmail.com)
-- Twitter: [https://twitter.com/dipeshrajoria](https://twitter.com/dipeshrajoria)\_
-- LinkedIn: [https://www.linkedin.com/in/dipesh-rajoria-175b60192/](https://www.linkedin.com/in/dipesh-rajoria-175b60192/)
-- Instagram: [https://instagram.com/dipeshrajoria](https://instagram.com/dipeshrajoria)
-- LeetCode: [https://www.leetcode.com/dipeshrajoria45](https://www.leetcode.com/dipeshrajoria45)
+- LinkedIn: [dipesh-rajoria](https://www.linkedin.com/in/dipesh-rajoria-175b60192/)
+- Twitter: [@dipeshrajoria_](https://twitter.com/dipeshrajoria_)
+- Instagram: [@dipeshrajoria](https://instagram.com/dipeshrajoria)
+- LeetCode: [dipeshrajoria45](https://www.leetcode.com/dipeshrajoria45)
