@@ -73,10 +73,16 @@ How the work splits these days — I keep the judgment, agents take the grind:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshRajoria007&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00E5FF&text_color=c9d1d9" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DipeshRajoria007&theme=matrix&no-bg=true&no-frame=true&margin-w=6&row=1&column=6" alt="Trophies" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind&theme=dark&perline=6" alt="Web stack: TypeScript, JavaScript, React, Next.js, Vite, Tailwind" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tauri,rust,electron,swift&theme=dark&perline=4" alt="Desktop stack: Tauri, Rust, Electron, Swift" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,nodejs&theme=dark&perline=2" alt="Backend stack: Python, Node.js" />
+  <br/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=flat&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/MCP-1f6feb?style=flat" alt="MCP" />
+  <img src="https://img.shields.io/badge/LLM_workflows-8957e5?style=flat" alt="LLM workflows" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshRajoria007&bg_color=0D1117&color=00E5FF&line=FFEA00&point=E0E0E0&hide_border=true" alt="Activity graph" />
