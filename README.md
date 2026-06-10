@@ -37,7 +37,7 @@ How the work splits these days — I keep the judgment, agents take the grind:
 ```
 ╭─ operator ───────────────┬────────────────────────╮
 │ // human                 │ // agents              │
-│ architecture & design    │ Claude · Codex · MCP   │
+│ architecture & design    │ Claude · Codex         │
 │ product taste & UX       │ boilerplate, refactors │
 │ the hard 20% of the code │ runs while I sleep     │
 ╰──────────────────────────┴────────────────────────╯
