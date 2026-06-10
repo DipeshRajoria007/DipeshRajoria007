@@ -26,7 +26,7 @@ $ stack --all
   agents   Claude  Codex  MCP  LLM workflows
 
 $ ls ~/building
-  sentinel   jarvis-cmux   ownit   watchtower
+  sentinel   Karen   jarvis-cmux   ownit   watchtower
 
 $ now
 > Building agentic tools, desktop apps, and developer-experience tooling.
