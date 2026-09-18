@@ -81,7 +81,7 @@ How the work splits these days — I keep the judgment, agents take the grind:
   <img src="https://img.shields.io/badge/LLM_workflows-8957e5?style=flat" alt="LLM workflows" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshRajoria007&bg_color=0D1117&color=00E5FF&line=FFEA00&point=E0E0E0&hide_border=true" alt="Activity graph" />
+  <img src="https://raw.githubusercontent.com/DipeshRajoria007/DipeshRajoria007/output/activity-graph.svg" alt="Contribution activity over the last 31 days" />
 </p>
 
 ## Contact

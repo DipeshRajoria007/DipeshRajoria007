@@ -1,0 +1,57 @@
+name: Activity graph
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/scripts/activity-graph.mjs
+      - .github/workflows/activity-graph.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Render graph
+        run: node .github/scripts/activity-graph.mjs dist/activity-graph.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+
+      # The SVG lives on a separate `output` branch so main isn't flooded
+      # with bot commits; the README embeds it via raw.githubusercontent.com.
+      - name: Publish to output branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin output >/dev/null; then
+            git fetch --depth=1 origin output:refs/remotes/origin/output
+            git worktree add -B output out origin/output
+          else
+            git worktree add --detach out
+            git -C out switch --orphan output
+          fi
+          cp dist/activity-graph.svg out/activity-graph.svg
+          cd out
+          git add activity-graph.svg
+          if git diff --cached --quiet; then
+            echo "Graph unchanged"
+            exit 0
+          fi
+          git commit -m "Update activity graph"
+          git push origin output
